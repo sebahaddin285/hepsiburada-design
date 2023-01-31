@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home_selector"
+        android:title="Anasayfam" />
+    <item
+        android:id="@+id/categoryFragment"
+        android:icon="@drawable/category_selector"
+        android:title="Kategorilerim" />
+    <item
+        android:id="@+id/basketFragment"
+        android:icon="@drawable/ic_basket"
+        android:title="Sepetim" />
+    <item
+        android:id="@+id/listsFragment"
+        android:icon="@drawable/ic_lists"
+        android:title="Listelerim" />
+    <item
+        android:id="@+id/expressFragment"
+        android:icon="@drawable/hizliteslimat"
+        android:title="Hızlı Teslimat" />
+
+
+</menu>
